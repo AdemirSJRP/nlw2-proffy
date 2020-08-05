@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Projeto Proffy do NLW#2
 
 
-## Para rodar o front-end, na pasta web digite:
+## Para rodar o front-end, na pasta _raiz_ digite:
 
 ### `yarn start`
 
@@ -24,5 +24,5 @@ ou se não tiver o yarn instalado:
 ### `npm start`
 
 O back-end irá rodar na seguinte url:<br />
-Abra [http://localhost:33333](http://localhost:3333) em seu navegador.
+Abra [http://localhost:3333](http://localhost:3333) em seu navegador.
 
